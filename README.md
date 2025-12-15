@@ -1,83 +1,94 @@
+README.md  
+@payatechnologysystems  
+
 # Paya Technology Systems Private Limited
 
-🏗️ **Technology Solutions for Building & Real Estate Developers**
-
-Paya Technology Systems Private Limited is a specialized technology company focused on building **end-to-end digital solutions for Building Developers and Real Estate Businesses**.  
-We design and develop platforms that streamline **sales operations, customer management, bank integrations, payments, and compliance workflows**.
+🏗️ **Powering Digital Transformation for Building Developers & Real Estate Businesses**
 
 ---
 
 ## 🏢 About Us
 
-We work closely with **Builders, Developers, and Channel Partners** to digitize and automate their business processes — from **lead generation and sales booking** to **bank integrations, payments, invoicing, and post-sales tracking**.
+**Paya Technology Systems Private Limited** is a technology-focused organization dedicated to building **robust, secure, and scalable digital platforms for Building Developers**.  
+We specialize in **sales automation, CRM systems, bank integrations, payment processing, and compliance-driven workflows** tailored specifically for the real estate and construction ecosystem.
 
-Our solutions are built to be **secure, scalable, and compliant**, supporting high-volume transactions and real-world business workflows.
+> “Building Technology That Builds Businesses.”
 
 ---
 
-## 🧩 Our Core Solutions
+## 💼 What We Do
 
-### 🏠 Sales & CRM Applications
-- Lead Management
-- Sales Funnel Tracking
-- Booking & Allotment Management
-- Channel Partner (CP) & FOS Management
-- Agreement & Invoice Workflows
-- Document & KYC Management
+🏠 Sales & CRM Applications  
+💳 Bank Integration & Payment Systems  
+📑 Agreement, Invoice & Compliance Automation  
+🔐 Secure Financial & Data Systems  
+📊 Reporting, Reconciliation & Analytics  
+☁️ Cloud-Based Enterprise Solutions  
 
-### 💳 Bank Integration & Payments
-- Virtual Account Integration
-- Bank Reconciliation Systems
-- Payment Status Tracking
-- TDS & GST Handling
-- Automated Ledger Updates
-- Multi-Bank Support
+---
 
-### 📑 Compliance & Documentation
-- RERA Tracking
-- Agreement & Allotment Letter Generation
-- E-Sign & Document Uploads
-- Payment Certificates & Invoices (PDF)
-- Audit-Ready Logs & Reports
+## 📂 Projects
 
-### 📊 Reports & Automation
-- Sales & Payment Reports
-- Excel / PDF Downloads
-- Automated Notifications (Email / WhatsApp / SMS)
-- Role-Based Access Control
-- Real-Time Dashboards
+| Project Name | Description | Technologies |
+|-------------|------------|--------------|
+| **SalesPro CRM** | A complete sales and lead management platform for building developers, covering lead tracking, booking, allotment, agreement workflows, CP/FOS management, and reporting. | React, Node.js, PostgreSQL, AWS |
+| **BankConnect** | Secure bank integration and payment reconciliation system with virtual accounts, real-time payment tracking, ledger updates, GST & TDS handling. | Node.js, Python, MSSQL, Banking APIs |
+| **BuilderPay** | End-to-end payment management solution for real estate projects including invoices, receipts, payment status tracking, and automated reconciliation. | React, Node.js, PostgreSQL |
+| **RERA & Compliance Suite** | Digital compliance platform for RERA tracking, document management, e-sign workflows, audit logs, and regulatory reporting. | React, Supabase, AWS |
+
+👉 More coming soon!
 
 ---
 
 ## 🛠️ Technology Stack
 
 **Frontend**
-- React.js / Angular
+- React.js
+- Angular
 - Material UI
-- Vite
-- Responsive & Mobile-First Design
 
 **Backend**
-- Node.js & Express.js
-- RESTful APIs
-- Python (Payment & Automation Scripts)
+- Node.js
+- Express.js
+- Python
 
 **Databases**
 - PostgreSQL
 - MSSQL
 - Supabase
 
-**Integrations**
-- Banking APIs
-- Payment Gateways
-- E-Sign Services
-- Email & Notification Services
-
-**Cloud & DevOps**
+**Cloud & Integrations**
 - AWS
-- Docker
-- CI/CD Pipelines
-- Secure Environment Management
+- Banking & Payment APIs
+- E-Sign & Notification Services
 
 ---
 
+## 🌐 Connect With Us
+
+🌍 Website: https://www.payatechnologysystems.com *(update if available)*  
+📧 Email: contact@payatechnologysystems.com  
+💼 LinkedIn: https://www.linkedin.com/company/paya-technology-systems *(update if available)*  
+🐙 GitHub: https://github.com/PayaTechnologySystems *(update if available)*  
+
+---
+
+## 🤝 Work With Us
+
+We collaborate with **Building Developers, Real Estate Firms, and Financial Institutions** to deliver reliable technology solutions.
+
+We’re always looking for skilled developers and technology partners.  
+📩 **careers@payatechnologysystems.com**
+
+---
+
+## 📜 License
+
+This organization and its repositories are maintained by  
+**Paya Technology Systems Private Limited**  
+
+All rights reserved © 2025.
+
+---
+
+✨ **Built with passion for Builders & Developers** ✨
