@@ -1,6 +1,3 @@
-README.md  
-@payatechnologysystems  
-
 # Paya Technology Systems Private Limited
 
 🏗️ **Powering Digital Transformation for Building Developers & Real Estate Businesses**
@@ -31,9 +28,9 @@ We specialize in **sales automation, CRM systems, bank integrations, payment pro
 
 | Project Name | Description | Technologies |
 |-------------|------------|--------------|
-| **SalesPro CRM** | A complete sales and lead management platform for building developers, covering lead tracking, booking, allotment, agreement workflows, CP/FOS management, and reporting. | React, Node.js, PostgreSQL, AWS |
+| **Sales App CRM** | A complete sales and lead management platform for building developers, covering lead tracking, booking, allotment, agreement workflows, CP/FOS management, and reporting. | React, Node.js, PostgreSQL, AWS |
 | **BankConnect** | Secure bank integration and payment reconciliation system with virtual accounts, real-time payment tracking, ledger updates, GST & TDS handling. | Node.js, Python, MSSQL, Banking APIs |
-| **BuilderPay** | End-to-end payment management solution for real estate projects including invoices, receipts, payment status tracking, and automated reconciliation. | React, Node.js, PostgreSQL |
+| **Pyment** | End-to-end payment management solution for real estate projects including invoices, receipts, payment status tracking, and automated reconciliation. | React, Node.js, PostgreSQL |
 | **RERA & Compliance Suite** | Digital compliance platform for RERA tracking, document management, e-sign workflows, audit logs, and regulatory reporting. | React, Supabase, AWS |
 
 👉 More coming soon!
@@ -66,9 +63,9 @@ We specialize in **sales automation, CRM systems, bank integrations, payment pro
 
 ## 🌐 Connect With Us
 
-🌍 Website: https://www.payatechnologysystems.com *(update if available)*  
-📧 Email: contact@payatechnologysystems.com  
-💼 LinkedIn: https://www.linkedin.com/company/paya-technology-systems *(update if available)*  
+🌍 Website: https://www.payatechnologysystems.com  
+📧 Email: paya@payasystems.com  
+💼 LinkedIn: https://www.linkedin.com/company/paya-technology-systems   
 🐙 GitHub: https://github.com/PayaTechnologySystems *(update if available)*  
 
 ---
@@ -78,7 +75,7 @@ We specialize in **sales automation, CRM systems, bank integrations, payment pro
 We collaborate with **Building Developers, Real Estate Firms, and Financial Institutions** to deliver reliable technology solutions.
 
 We’re always looking for skilled developers and technology partners.  
-📩 **careers@payatechnologysystems.com**
+📩 **paya@payasystems.com**
 
 ---
 
