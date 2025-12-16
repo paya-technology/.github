@@ -5,7 +5,6 @@
 ---
 
 ## 🏢 About Us
-[![Paya Logo](.github/profile/ChatGPT Image Dec 16, 2025, 02_47_04 PM.png)](https://github.com/organizations/paya-technology/settings/profile)
 **Paya Technology Systems Private Limited** is a technology-focused organization dedicated to building **robust, secure, and scalable digital platforms for Building Developers**.  
 We specialize in **sales automation, CRM systems, bank integrations, payment processing, and compliance-driven workflows** tailored specifically for the real estate and construction ecosystem.
 
