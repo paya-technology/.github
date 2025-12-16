@@ -5,14 +5,10 @@
 
 <h1 align="center">Paya Technology Systems Private Limited</h1>
 <p align="center">
-  🚀 Empowering innovation through cutting-edge technology and smart solutions.
+  🚀  Powering Digital Transformation for Building Developers & Real Estate Businesses.
 </p>
 
-# Paya Technology Systems Private Limited
 
-🏗️ **Powering Digital Transformation for Building Developers & Real Estate Businesses**
-
----
 
 ## 🏢 About Us
 **Paya Technology Systems Private Limited** is a technology-focused organization dedicated to building **robust, secure, and scalable digital platforms for Building Developers**.  
