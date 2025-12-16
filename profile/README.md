@@ -1,3 +1,13 @@
+<!-- Logo (optional) -->
+<p align="center">
+<img class="avatar rounded-2" src="[https://avatars.githubusercontent.com/u/124358516?s=400&amp;u=f1613a323002f859e26ed88c2977a9b5e4cead85&amp;v=4](https://github.com/organizations/paya-technology/settings/profile)" width="200" height="200" alt="@corecotech">
+</p>
+
+<h1 align="center">Paya Technology Systems Private Limited</h1>
+<p align="center">
+  🚀 Empowering innovation through cutting-edge technology and smart solutions.
+</p>
+
 # Paya Technology Systems Private Limited
 
 🏗️ **Powering Digital Transformation for Building Developers & Real Estate Businesses**
