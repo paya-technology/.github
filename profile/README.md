@@ -70,7 +70,7 @@ We specialize in **sales automation, CRM systems, bank integrations, payment pro
 ## 🌐 Connect With Us
 
 🌍 Website: https://www.payatechnologysystems.com  
-📧 Email: paya@payasystems.com  
+📧 Email: support@payasystems.com  
 💼 LinkedIn: https://www.linkedin.com/company/paya-technology-systems   
 🐙 GitHub: https://github.com/PayaTechnologySystems *(update if available)*  
 
